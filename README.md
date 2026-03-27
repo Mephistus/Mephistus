@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mephistus 👋
+But my real name is Cassio
 
-<!--
-**Mephistus/Mephistus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Software Developer & Game Designer
+I specialize in building scalable backend architectures and designing complex game logic. With nearly two decades of experience in the Java ecosystem and a passion for tactical RPG mechanics, I bridge the gap between robust engineering and creative design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Backend:** Java (Spring Boot, Microservices), Python, PostgreSQL, RESTful APIs
+- **Game Dev:** Unity 6 (C#), Clickteam Fusion 2.5+, Pathfinding Algorithms (A*, Dijkstra)
+- **Tools:** Git, VS Code, IntelliJ IDEA, Docker
+
+---
+
+### 🕹️ Current Projects
+- **WitchRune:** A tactical RPG focusing on grid-based movement and advanced pathfinding.
+- **Wildlife Management System:** A microservices-based platform for animal rehabilitation centers.
+- **VS Code Extensions:** Developing custom syntax highlighting for legacy game engine logic.
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](linkedin.com/in/cassiogmaciel) | [Portfolio](https://pinkcookiegames.my.canva.site/)
