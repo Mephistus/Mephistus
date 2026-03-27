@@ -1,7 +1,7 @@
 # Hi, I'm Mephistus 👋
 But my real name is Cassio
 
-### 🚀 Senior Software Developer & Game Designer
+### 🚀 Software Engineer & Game Designer
 I specialize in building scalable backend architectures and designing complex game logic. With nearly two decades of experience in the Java ecosystem and a passion for tactical RPG mechanics, I bridge the gap between robust engineering and creative design.
 
 ---
