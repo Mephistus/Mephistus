@@ -22,4 +22,4 @@ I specialize in building scalable backend architectures and designing complex ga
 ---
 
 ###  Connect with me:
-[LinkedIn](linkedin.com/in/cassiogmaciel) | [Portfolio](https://pinkcookiegames.my.canva.site/)
+[LinkedIn](https://linkedin.com/in/cassiogmaciel) | [Portfolio](https://pinkcookiegames.my.canva.site/)
